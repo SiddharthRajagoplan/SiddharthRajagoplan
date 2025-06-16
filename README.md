@@ -48,17 +48,17 @@ down the best filter coffee in town.
 
 ---
 
-## 🔭 Current Focus
+<!-- ## 🔭 Current Focus
 
 - **Graph-RAG Toolkit** 🔗 — marrying knowledge graphs with retrieval-augmented generation  
 - **Care.ai v2** 🚑 — multimodal triage assistant for emergency rooms  
 
----
+--- -->
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/SiddharthRajagopalan/Graph-RAG-Toolkit">
+<p align="center"> -->
+  <!-- <a href="https://github.com/SiddharthRajagopalan/Graph-RAG-Toolkit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Graph-RAG-Toolkit&theme=radical" />
   </a>
   <a href="https://github.com/SiddharthRajagopalan/Care.ai">
@@ -82,7 +82,7 @@ down the best filter coffee in town.
   </a>
 </p>
 
----
+--- -->
 
 ## 🧠 Core ML & Data Stack
 <p align="center">
@@ -101,7 +101,7 @@ down the best filter coffee in town.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"            height="48" alt="Redis"/>
 </p>
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -115,16 +115,16 @@ down the best filter coffee in town.
        height="170" />
 </p>
 
----
-
+--- -->
+<!-- 
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagopalan&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=10"/>
 </p>
 
----
+--- -->
 
-## 🎵 Now Playing
+<!-- ## 🎵 Now Playing
 <p align="center">
   <a href="https://open.spotify.com/user/ay958iji4n9ue896hmgxjy3d9" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"
@@ -132,7 +132,7 @@ down the best filter coffee in town.
   </a>
 </p>
 
----
+--- -->
 
 > "Constraints breed creativity." — me
 
