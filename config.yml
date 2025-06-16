@@ -1,0 +1,17 @@
+accent        : "F58A07"
+headline      : "Architecting AI • Turning ideas into impact"
+emoji_role    : "🧠"
+about_me      : |
+  I refactor stochastic processes into deterministic business value.
+current_projects:
+  - "Graph-RAG Toolkit 🔗"
+  - "Care.ai v2 – multimodal triage assistant 🚑"
+badges:
+  - python
+  - pytorch
+  - kubernetes
+metrics:
+  prs_merged      : true
+  issues_closed   : true
+  top_languages   : 5
+blog_rss         : "https://sraj.ai/rss.xml"

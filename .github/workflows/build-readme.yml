@@ -1,0 +1,21 @@
+name: ♻️ Re-build README
+on:
+  schedule:
+    - cron: "15 4 * * *" 
+  push:
+    branches: [main]
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+    - run: pip install jinja2 pyyaml requests feedparser
+    - env:
+        GH_USER : ${{ github.repository_owner }}
+        GH_TOKEN: ${{ secrets.GH_PAT }}   # create a classic PAT
+      run: python scripts/generate_readme.py
+    - uses: EndBug/add-and-commit@v9
+      with:
+        default_author: github_actions
+        message: "chore(readme): automated rebuild"
