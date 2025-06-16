@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/SiddharthRajagoplan/SiddharthRajagoplan">
     <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/header.png" alt="Header Banner"/>
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/video.gif" alt="Header Animation" width="900"/>
@@ -37,11 +37,9 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
 </details>
 
 <details open>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> My Toolbox</h3></summary>
+  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> 🔧 My Toolbox</h3></summary>
   <br/>
-  <p align="center">
-    ![python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![pytorch](https://img.shields.io/badge/-Pytorch-000?style=for-the-badge&logo=pytorch) ![kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
-  </p>
+  ![python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![pytorch](https://img.shields.io/badge/-Pytorch-000?style=for-the-badge&logo=pytorch) ![kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 </details>
 
 <details>
@@ -64,13 +62,17 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
 </details>
 
 <details>
-    <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="25" height="25" /> Now Playing on Spotify</h3></summary>
-    <br/>
-    <p align="center">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=bar&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="400"/>
-        </a>
-    </p>
+  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="25" height="25" /> 🎵 Now Playing on Spotify</h3></summary>
+  <br/>
+  <div align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true">
+      <img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"
+        alt="Now Playing on Spotify"
+        width="400"
+      />
+    </a>
+  </div>
 </details>
 
 ---
