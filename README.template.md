@@ -66,15 +66,8 @@
 </details>
 
 <!-- ────────  SPOTIFY  ──────── -->
-<details>
-  <summary><h3>🎧 Now Playing</h3></summary>
-  <br/>
-  <p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212" alt="Spotify Now Playing" width="400"/>
-    </a>
-  </p>
-</details>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- ────────  RECENT ACTIVITY  ──────── -->
 ### 🚀 Latest Activity
