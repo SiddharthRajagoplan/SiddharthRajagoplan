@@ -66,23 +66,21 @@ down the best filter coffee in town.
   </a>
 </p>
 
-+---
-+
-+## 📦 Latest Repositories
-+<p align="center">
-+  <a href="https://github.com/SiddharthRajagopalan/LLM-Playground">
-+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=LLM-Playground&theme=radical" />
-+  </a>
-+  <a href="https://github.com/SiddharthRajagopalan/CV-Lab">
-+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=CV-Lab&theme=radical" />
-+  </a>
-+  <a href="https://github.com/SiddharthRajagopalan/Data-Engineering-Toolkit">
-+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Data-Engineering-Toolkit&theme=radical" />
-+  </a>
-+  <a href="https://github.com/SiddharthRajagopalan/Prompt-Engineering">
-+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Prompt-Engineering&theme=radical" />
-+  </a>
-+</p>
+## 📦 Latest Repositories
+<p align="center">
+  <a href="https://github.com/SiddharthRajagopalan/LLM-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=LLM-Playground&theme=radical" />
+  </a>
+  <a href="https://github.com/SiddharthRajagopalan/CV-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=CV-Lab&theme=radical" />
+  </a>
+  <a href="https://github.com/SiddharthRajagopalan/Data-Engineering-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Data-Engineering-Toolkit&theme=radical" />
+  </a>
+  <a href="https://github.com/SiddharthRajagopalan/Prompt-Engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Prompt-Engineering&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -101,8 +99,6 @@ down the best filter coffee in town.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="48" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"     height="48" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"            height="48" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg"          height="48" alt="NVIDIA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" alt="AWS"/>
 </p>
 
 ---
