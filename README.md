@@ -66,6 +66,24 @@ down the best filter coffee in town.
   </a>
 </p>
 
++---
++
++## 📦 Latest Repositories
++<p align="center">
++  <a href="https://github.com/SiddharthRajagopalan/LLM-Playground">
++    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=LLM-Playground&theme=radical" />
++  </a>
++  <a href="https://github.com/SiddharthRajagopalan/CV-Lab">
++    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=CV-Lab&theme=radical" />
++  </a>
++  <a href="https://github.com/SiddharthRajagopalan/Data-Engineering-Toolkit">
++    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Data-Engineering-Toolkit&theme=radical" />
++  </a>
++  <a href="https://github.com/SiddharthRajagopalan/Prompt-Engineering">
++    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Prompt-Engineering&theme=radical" />
++  </a>
++</p>
+
 ---
 
 ## 🧠 Core ML & Data Stack
@@ -91,12 +109,14 @@ down the best filter coffee in town.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagopalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"
-       width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagopalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+       height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagopalan&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook"
+       height="190" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthRajagopalan&theme=radical"
-       width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagopalan&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"
-       width="325" />
+       height="170" />
 </p>
 
 ---
