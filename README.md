@@ -30,96 +30,61 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
 ---
 
 <details open>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Current Focus</h3></summary>
+  <summary><h3>🔭 Current Focus</h3></summary>
   <br/>
   - Graph-RAG Toolkit 🔗
 - Care.ai v2 – multimodal triage assistant 🚑
 </details>
 
-<!-- Removed "My Toolbox" section per request -->
-
+<!-- ────────  ML-STACK HIGHLIGHT  ──────── -->
 <details open>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My GitHub Stats</h3></summary>
+  <summary><h3>🧠 Core ML & Data Skills</h3></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagoplan&show_icons=true&theme=radical&border_radius=10&hide_rank=true" width="400" />
-    <img src="https://streak-stats.demolab.com?user=SiddharthRajagoplan&theme=radical&hide_border=true" width="400" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthRajagoplan&layout=compact&theme=radical&hide=jupyter%20notebook" />
+    <!-- Dev icons for the tools you actually use -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="50" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"   height="50" alt="OpenCV"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
   </p>
 </details>
 
-<details>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> My Trophy Cabinet</h3></summary>
+<!-- ────────  STATS  ──────── -->
+<details open>
+  <summary><h3>📊 GitHub Stats</h3></summary>
   <br/>
   <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=flat&no-frame=true&margin-w=15&margin-h=15"
-      alt="Trophy Cabinet"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagoplan&theme=radical&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthRajagoplan&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook" width="300"/>
   </p>
 </details>
 
+<!-- ────────  TROPHIES  ──────── -->
 <details>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="25" height="25" /> 🎵 Now Playing on Spotify</h3></summary>
+  <summary><h3>🏆 Achievements</h3></summary>
   <br/>
-  <div align="center">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=juicyfresh&no-bg=true&margin-w=5&margin-h=5"/>
+  </p>
+</details>
+
+<!-- ────────  SPOTIFY  ──────── -->
+<details>
+  <summary><h3>🎧 Now Playing</h3></summary>
+  <br/>
+  <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true">
-      <img
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"
-        alt="Now Playing on Spotify"
-        width="400"
-      />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212" alt="Spotify Now Playing" width="400"/>
     </a>
-  </div>
+  </p>
 </details>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="25" height="25" /> Recent Activity
+<!-- ────────  RECENT ACTIVITY  ──────── -->
+### 🚀 Latest Activity
 <!--START_SECTION:activity-->
-*Psst! The activity feed will show up here soon after the next workflow run.*
+*Psst … the feed will refresh after the next workflow run.*
 <!--END_SECTION:activity-->
-
----
-
-<!-- Removed GitHub contribution snake per request -->
-
-<!-- ─────────────  CORE GITHUB WIDGETS  ───────────── -->
-
-<!-- 1️⃣  Classic GitHub-stats card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagoplan&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
-</p>
-
-<!-- 2️⃣  "Metrics" all-in-one card -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/SiddharthRajagoplan?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta" />
-</p>
-
-<!-- 3️⃣  Top-languages (compact, dark-chartreuse theme) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthRajagoplan&layout=compact&theme=chartreuse-dark" />
-</p>
-
-<!-- 4️⃣  Trophy cabinet – juicyfresh theme, no background -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=juicyfresh&no-bg=true" />
-</p>
-
-<!-- ─────────────  FUN / SOCIAL ADD-ONS  ───────────── -->
-
-<!-- Random programming-joke every refresh -->
-<p align="center">
-  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="Random joke" /></a>
-</p>
-
-<!-- Holopin badge board (if you use Holopin) -->
-<p align="center">
-  <a href="https://holopin.io/@SiddharthRajagoplan">
-    <img src="https://holopin.me/SiddharthRajagoplan" alt="Holopin badges" />
-  </a>
-</p>
 
 <!-- Visitor counter -->
 <p align="center">
