@@ -4,105 +4,82 @@
   </a>
 </p> -->
 
-<!-- ───────────────────────────  HERO  ─────────────────────────── -->
-<p align="center">
-  <!-- replace with any banner or GIF you like -->
-  <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/video.gif"
-       width="900" alt="Hero Animation"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/video.gif" alt="Header Animation" width="900"/>
+</div>
 
-<h1 align="center">Hi, I'm Siddharth Rajagopalan 👋</h1>
+<h3 align="center">Hey, I'm <b>Siddharth&nbsp;Rajagopalan</b> — 🧠 AI Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/SiddharthRajagopalan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Generative+AI+Experimenter;Turning+stochastic+processes+into+business+value"
-         alt="Typing animation" />
-  </a>
+  <a href="https://linkedin.com/in/siddharth-rajagopalan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/_SiddharthR"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:siddharth.rajagopalan01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/siddharth-rajagopalan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SiddharthRajagoplan&label=profile%20views&color=F58A07&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-## 🧩 About Me
+I'm a Machine Learning Engineer specializing in building intelligent, scalable systems that translate complex data into tangible business impact. With a deep focus on Natural Language Processing (NLP) and Large Language Models (LLMs), I thrive on architecting solutions that bridge the gap between cutting-edge research and real-world application.
 
-I'm a Machine-Learning Engineer obsessed with shipping **production-grade AI
-systems**.
+My current work involves developing advanced Graph-RAG systems to enhance information retrieval and building multimodal AI assistants for complex triage scenarios. I'm passionate about open-source and believe that constraints breed creativity.
 
-• Transformer-based NLP pipelines  
-• Real-time computer vision at the edge  
-• Scalable MLOps on Kubernetes & Ray  
-
-When I'm not refactoring models, you'll find me on a climbing wall or hunting
-down the best filter coffee in town.
 
 ---
 
-## 🔭 Current Focus
+<details open>
+  <summary><h3>🔭 Current Focus</h3></summary>
+  <br/>
+  - Graph-RAG Toolkit 🔗
+- Care.ai v2 – multimodal triage assistant 🚑
+</details>
 
-- **Graph-RAG Toolkit** 🔗 — marrying knowledge graphs with retrieval-augmented generation  
-- **Care.ai v2** 🚑 — multimodal triage assistant for emergency rooms  
+<!-- ────────  ML-STACK HIGHLIGHT  ──────── -->
+<details open>
+  <summary><h3>🧠 Core ML & Data Skills</h3></summary>
+  <br/>
+  <p align="center">
+    <!-- Dev icons for the tools you actually use -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="50" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"   height="50" alt="OpenCV"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
+  </p>
+</details>
 
----
+<!-- ────────  STATS  ──────── -->
+<details open>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagoplan&theme=radical&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthRajagoplan&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook" width="300"/>
+  </p>
+</details>
 
-## 🧠 Core ML & Data Stack
+<!-- ────────  TROPHIES  ──────── -->
+<details>
+  <summary><h3>🏆 Achievements</h3></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=juicyfresh&no-bg=true&margin-w=5&margin-h=5"/>
+  </p>
+</details>
+
+<!-- ────────  SPOTIFY  ──────── -->
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9i9td1k88xm17vnbzt74gj9j8&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9i9td1k88xm17vnbzt74gj9j8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+
+<!-- ────────  RECENT ACTIVITY  ──────── -->
+### 🚀 Latest Activity
+<!--START_SECTION:activity-->
+*Psst … the feed will refresh after the next workflow run.*
+<!--END_SECTION:activity-->
+
+<!-- Visitor counter -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"          height="48" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"        height="48" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  height="48" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"            height="48" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"            height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"          height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"height="48" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"          height="48" alt="OpenCV"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg"                                height="48" alt="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"        height="48" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="48" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"     height="48" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"            height="48" alt="Redis"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagopalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"
-       width="425" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagopalan&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"
-       width="325" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagopalan&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 🎵 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/ay958iji4n9ue896hmgxjy3d9" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"
-         width="450" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
-> "Constraints breed creativity." — me
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthRajagopalan&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SiddharthRajagoplan&color=brightgreen" />
 </p>
