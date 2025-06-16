@@ -58,7 +58,7 @@ I refactor stochastic processes into deterministic business value.
     <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="25" height="25" /> Now Playing on Spotify</h3></summary>
     <br/>
     <p align="center">
-        <img src="https://novatorem-seven.vercel.app/api/spotify?background_color=0d1117&border_color=666" alt="spotify" />
+        [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true)
     </p>
 </details>
 
