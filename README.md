@@ -68,16 +68,16 @@ down the best filter coffee in town.
 
 ## 📦 Latest Repositories
 <p align="center">
-  <a href="https://github.com/SiddharthRajagopalan/LLM-Playground">
+  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=LLM-Playground&theme=radical" />
   </a>
-  <a href="https://github.com/SiddharthRajagopalan/CV-Lab">
+  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=CV-Lab&theme=radical" />
   </a>
-  <a href="https://github.com/SiddharthRajagopalan/Data-Engineering-Toolkit">
+  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Data-Engineering-Toolkit&theme=radical" />
   </a>
-  <a href="https://github.com/SiddharthRajagopalan/Prompt-Engineering">
+  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Prompt-Engineering&theme=radical" />
   </a>
 </p>
