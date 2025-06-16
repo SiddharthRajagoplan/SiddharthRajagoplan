@@ -36,13 +36,9 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
 - Care.ai v2 – multimodal triage assistant 🚑
 </details>
 
-<details open>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> 🔧 My Toolbox</h3></summary>
-  <br/>
-  ![python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![pytorch](https://img.shields.io/badge/-Pytorch-000?style=for-the-badge&logo=pytorch) ![kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
-</details>
+<!-- Removed “My Toolbox” section per request -->
 
-<details>
+<details open>
   <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My GitHub Stats</h3></summary>
   <br/>
   <p align="center">
@@ -57,7 +53,10 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
   <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> My Trophy Cabinet</h3></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=flat&no-frame=true&margin-w=15&margin-h=15"
+      alt="Trophy Cabinet"
+    />
   </p>
 </details>
 
@@ -84,10 +83,4 @@ My current work involves developing advanced Graph-RAG systems to enhance inform
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<!-- Removed GitHub contribution snake per request -->
