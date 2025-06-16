@@ -32,13 +32,9 @@
   {{current_projects}}
 </details>
 
-<details open>
-  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> 🔧 My Toolbox</h3></summary>
-  <br/>
-  {{badges}}
-</details>
+<!-- Removed “My Toolbox” section per request -->
 
-<details>
+<details open>
   <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My GitHub Stats</h3></summary>
   <br/>
   <p align="center">
@@ -53,7 +49,10 @@
   <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> My Trophy Cabinet</h3></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username={{user}}&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username={{user}}&theme=flat&no-frame=true&margin-w=15&margin-h=15"
+      alt="Trophy Cabinet"
+    />
   </p>
 </details>
 
@@ -80,10 +79,4 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{user}}/{{user}}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{user}}/{{user}}/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/{{user}}/{{user}}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<!-- Removed GitHub contribution snake per request -->
