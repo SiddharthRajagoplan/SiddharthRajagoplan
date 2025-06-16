@@ -55,6 +55,19 @@ down the best filter coffee in town.
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SiddharthRajagopalan/Graph-RAG-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Graph-RAG-Toolkit&theme=radical" />
+  </a>
+  <a href="https://github.com/SiddharthRajagopalan/Care.ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Care.ai&theme=radical" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Core ML & Data Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"          height="48" alt="Python"/>
@@ -70,6 +83,8 @@ down the best filter coffee in town.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="48" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"     height="48" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"            height="48" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg"          height="48" alt="NVIDIA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" alt="AWS"/>
 </p>
 
 ---
@@ -77,7 +92,9 @@ down the best filter coffee in town.
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagopalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"
-       width="425" />
+       width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthRajagopalan&theme=radical"
+       width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagopalan&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"
        width="325" />
 </p>
@@ -95,7 +112,7 @@ down the best filter coffee in town.
 <p align="center">
   <a href="https://open.spotify.com/user/ay958iji4n9ue896hmgxjy3d9" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"
-         width="450" alt="Spotify Now Playing"/>
+         width="600" alt="Spotify Now Playing"/>
   </a>
 </p>
 
