@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/{{user}}/{{user}}/main/video.gif" alt="Header Animation" width="900"/>
 </div>
 
-<h3 align="center">hey, i'm <b>Siddharth&nbsp;Rajagopalan</b> — {{emoji_role}} ai engineer</h3>
+<h3 align="center">Hey, I'm <b>Siddharth&nbsp;Rajagopalan</b> — {{emoji_role}} AI Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/{{socials.linkedin}}"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,6 +25,12 @@
 {{about_me}}
 
 ---
+
+<details open>
+  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Current Focus</h3></summary>
+  <br/>
+  {{current_projects}}
+</details>
 
 <details open>
   <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> My Toolbox</h3></summary>
@@ -57,7 +63,9 @@
     <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="25" height="25" /> Now Playing on Spotify</h3></summary>
     <br/>
     <p align="center">
-        [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true)
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=bar&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="400"/>
+        </a>
     </p>
 </details>
 
