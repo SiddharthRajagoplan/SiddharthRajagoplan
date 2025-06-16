@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=800&color=F58A07&center=true&vCenter=true&width=900&lines=Architecting AI • Turning ideas into impact" alt="typing animation" />
+  <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/video.gif" alt="Header Animation" width="900"/>
 </div>
 
 <h3 align="center">hey, i'm <b>Siddharth&nbsp;Rajagopalan</b> — 🧠 ai engineer</h3>
