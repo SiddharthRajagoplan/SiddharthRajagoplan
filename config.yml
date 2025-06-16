@@ -15,3 +15,7 @@ metrics:
   issues_closed   : true
   top_languages   : 5
 blog_rss         : "https://sraj.ai/rss.xml"
+socials:
+  linkedin: siddharth-rajagopalan
+  twitter: _SiddharthR
+  email: siddharth.rajagopalan01@gmail.com
