@@ -1,141 +1,27 @@
-<!-- <p align="center">
-  <a href="https://github.com/SiddharthRajagoplan/SiddharthRajagoplan">
-    <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/header.png" alt="Header Banner"/>
-  </a>
-</p> -->
+# 💫 About Me:
+🔭 I’m currently working on Healthcare Automation<br>👯 I’m looking to collaborate on Agentic AI Products<br>🌱 I’m currently learning about MCP servers and A2A frameworks<br>💬 Ask me about the latest tech in computer vision<br>⚡ Fun fact : Autonomous driving is probably the biggest opportunity in computer vision today.
 
-<!-- ───────────────────────────  HERO  ─────────────────────────── -->
-<p align="center">
-  <!-- replace with any banner or GIF you like -->
-  <img src="https://raw.githubusercontent.com/SiddharthRajagoplan/SiddharthRajagoplan/main/video.gif"
-       width="900" alt="Hero Animation"/>
-</p>
 
-<h1 align="center">Hi, I'm Siddharth Rajagopalan 👋</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-rajagopalan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharth.rajagopalan01@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com/SiddharthRajagopalan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Generative+AI+Experimenter;Turning+stochastic+processes+into+business+value"
-         alt="Typing animation" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SiddharthRajagoplan&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SiddharthRajagoplan&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagoplan&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://linkedin.com/in/siddharth-rajagopalan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SiddharthRajagoplan&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SiddharthRajagoplan&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SiddharthRajagoplan&icon=0&color=9)](https://visitcount.itsvg.in)
 
-## 🧩 About Me
-
-I'm a Machine-Learning Engineer obsessed with shipping **production-grade AI
-systems**.
-
-• Transformer-based NLP pipelines  
-• Real-time computer vision at the edge  
-• Scalable MLOps on Kubernetes & Ray  
-
-When I'm not refactoring models, you'll find me on a climbing wall or hunting
-down the best filter coffee in town.
-
----
-
-<!-- ## 🔭 Current Focus
-
-- **Graph-RAG Toolkit** 🔗 — marrying knowledge graphs with retrieval-augmented generation  
-- **Care.ai v2** 🚑 — multimodal triage assistant for emergency rooms  
-
---- -->
-
-<!-- ## 🚀 Featured Projects
-
-<p align="center"> -->
-  <!-- <a href="https://github.com/SiddharthRajagopalan/Graph-RAG-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Graph-RAG-Toolkit&theme=radical" />
-  </a>
-  <a href="https://github.com/SiddharthRajagopalan/Care.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Care.ai&theme=radical" />
-  </a>
-</p>
-
-## 📦 Latest Repositories
-<p align="center">
-  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=LLM-Playground&theme=radical" />
-  </a>
-  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=CV-Lab&theme=radical" />
-  </a>
-  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Data-Engineering-Toolkit&theme=radical" />
-  </a>
-  <a href="https://github.com/SiddharthRajagoplan/Bank-Loan-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthRajagopalan&repo=Prompt-Engineering&theme=radical" />
-  </a>
-</p>
-
---- -->
-
-## 🧠 Core ML & Data Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"          height="48" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"        height="48" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  height="48" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"            height="48" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"            height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"          height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"height="48" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"          height="48" alt="OpenCV"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg"                                height="48" alt="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"        height="48" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="48" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"     height="48" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"            height="48" alt="Redis"/>
-</p>
-
-<!-- ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRajagopalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-       height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajagopalan&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook"
-       height="190" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthRajagopalan&theme=radical"
-       height="170" />
-</p>
-
---- -->
-<!-- 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthRajagopalan&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=10"/>
-</p>
-
---- -->
-
-<!-- ## 🎵 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/ay958iji4n9ue896hmgxjy3d9" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ay958iji4n9ue896hmgxjy3d9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"
-         width="600" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
---- -->
-
-> "Constraints breed creativity." — me
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthRajagopalan&color=brightgreen" alt="Profile views"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
