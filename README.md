@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/SiddharthRajagopalan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Generative+%26+Predictive+AI+Specialist;Agentic+AI+Builder+with+LangChain+%26+LlamaIndex;Vision+Transformers%2C+Diffusion+Models+%26+MLOps;LLM+Finetuning%2C+LoRA+%26+QLoRA+Expert;RAG+Pipelines+%26+Vector+Search+with+FAISS%2FChroma;Turning+stochastic+processes+into+business+value"
-         alt="Typing animation" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Generative+AI+Experimenter;Turning+stochastic+processes+into+business+value"/>
   </a>
 </p>
 
