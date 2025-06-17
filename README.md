@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on Healthcare Automation<br>👯 I’m looking to collaborate on Agentic AI Products<br>🌱 I’m currently learning about MCP servers and A2A frameworks<br>💬 Ask me about the latest tech in computer vision<br>⚡ Fun fact : Autonomous driving is probably the biggest opportunity in computer vision today.
 
+<p align="center">
+  <a href="https://github.com/SiddharthRajagopalan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Generative+AI+Experimenter;Turning+stochastic+processes+into+business+value"
+         alt="Typing animation" />
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-rajagopalan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharth.rajagopalan01@gmail.com) 
